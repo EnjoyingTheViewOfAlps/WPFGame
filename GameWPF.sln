@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameWPF", "GameWPF\GameWPF.csproj", "{120BAB68-D173-4B2A-B748-139B60399CAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTSLibrary", "..\RTSLibrary\RTSLibrary\RTSLibrary.csproj", "{0E2A5BFD-9849-4936-8C93-A855E215028D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{120BAB68-D173-4B2A-B748-139B60399CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120BAB68-D173-4B2A-B748-139B60399CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120BAB68-D173-4B2A-B748-139B60399CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120BAB68-D173-4B2A-B748-139B60399CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2A5BFD-9849-4936-8C93-A855E215028D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2A5BFD-9849-4936-8C93-A855E215028D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2A5BFD-9849-4936-8C93-A855E215028D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2A5BFD-9849-4936-8C93-A855E215028D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F98C6CC9-B349-49B8-AB6F-A59207B51BBE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\пк\source\repos\GameWPF\GameWPF\obj\Debug\net7.0-windows\GameWPF.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\GameWPF\GameWPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\пк\source\repos\GameWPF\GameWPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\пк\source\repos\GameWPF\GameWPF\obj\Debug\net7.0-windows\GameWPF_MarkupCompile.cache
+C:\Users\пк\source\repos\GameWPF\GameWPF\obj\Debug\net7.0-windows\GameWPF_MarkupCompile.lref
